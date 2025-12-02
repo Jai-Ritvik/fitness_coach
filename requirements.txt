@@ -1,7 +1,7 @@
-Flask==2.3.6
-gunicorn==21.2.0
-markdown==3.5.4
-uvicorn==0.23.2
-fastapi==0.111.0
-google-generativeai==0.3.4
-python-dotenv==1.0.0
+Flask
+gunicorn
+markdown
+uvicorn
+fastapi
+google-generativeai
+python-dotenv
