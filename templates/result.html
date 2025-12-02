@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Fitness Plan</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<h1>📄 Your Fitness Plan</h1>
+
+<div class="content">
+    {{ output|safe }}
+</div>
+
+</body>
+</html>
